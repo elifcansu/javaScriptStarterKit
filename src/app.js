@@ -6,7 +6,7 @@ let dolarBugun=9.30
 console.log(dolarBugun)
 
 
-//array
+//arrayhjk
 
 let konutKredileri=[12,"konut kredisi","emlak","kamu","özel"]
 
